@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Geometric ALgos/Logs/**
+/Geometric ALgos/Temp/**
+
