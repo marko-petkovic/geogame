@@ -14,7 +14,7 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
-    public void howToGame()
+    public void HowToGame()
     {
         mainMenu.SetActive(false);
         howToMenu.SetActive(true);

@@ -44,12 +44,12 @@ public class BBST
 /// </summary>
 public class VertexQueue
 {
-    public VertexQueue(List<Vertex> vertexList)
+    public VertexQueue(List<PolygonVertex> vertexList)
     {
     }
 
 
-    public Vertex Pop()
+    public PolygonVertex Pop()
     {
         return null;
     }

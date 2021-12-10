@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 85
+  controlID: 111
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,7 +230,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 86
+  controlID: 112
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,7 +255,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 87
+  controlID: 113
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -658,7 +658,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 627
+    y: 681
     width: 1366
     height: 318
   m_ViewDataDictionary: {fileID: 0}
@@ -675,13 +675,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Users\Marko\Documents\Unity\PatternLustrum\geogame\Geometric
     ALgos
@@ -689,9 +689,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04430000
-    m_LastClickedID: 17156
-    m_ExpandedIDs: 000000000243000000ca9a3b
+    m_SelectedIDs: 24430000
+    m_LastClickedID: 17188
+    m_ExpandedIDs: 000000002043000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -835,16 +835,16 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 19
+    y: 73
     width: 482
     height: 587
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 28430000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 606dffff1a6effff3e6fffff846fffff06d3ffffb8ecffff18f5ffff66f5ffff34f6ffff12f8ffff2cf8ffff2cf9ffffaaf9ffff0efaffff46fbffff
+      m_ExpandedIDs: 18faffff46fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -905,9 +905,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1296.2565, y: 731.2644, z: -1353.3457}
+    m_Target: {x: 355.15286, y: 644.4331, z: -1606.1096}
     speed: 2
-    m_Value: {x: 1296.2565, y: 731.2644, z: -1353.3457}
+    m_Value: {x: 354.32104, y: 668.27844, z: -1601.9395}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -958,9 +958,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1155.0271
+    m_Target: 1106.2516
     speed: 2
-    m_Value: 1155.0271
+    m_Value: 1158.3787
   m_Ortho:
     m_Target: 1
     speed: 2
